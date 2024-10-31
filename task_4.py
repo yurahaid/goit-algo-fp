@@ -1,9 +1,6 @@
-import heapq
 import uuid
-
 import networkx as nx
 import matplotlib.pyplot as plt
-from fontTools.misc.cython import returns
 
 
 class Node:
